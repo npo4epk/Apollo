@@ -1,0 +1,176 @@
+/*********************************************\
+		Desktop First Method
+\*********************************************/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	
+
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {	
+
+	.main-header-descriprion p::after {
+		content: " ";
+		width: 50%;
+		height: 2px;
+		left: 25%;
+  }
+
+  .main-header-title,
+  .main-header-descriprion {
+  	text-align: center;
+  } 
+
+	.main-about-title {
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	
+
+	.main-about-title h2 {
+		position: relative;
+		&::before {
+			content: " ";
+			display: none;
+		}
+		&::after {
+			content: " ";
+			width: 50%;
+			height: 2px;
+			position: absolute;
+			float: left;
+			bottom: -30px;
+			left: 25%;
+			background-color: #000000;
+		}
+	}
+	
+	.main-content-top .next_button, 
+	.main-content-top .prev_button,
+	.main-content-bottom .btn-right, 
+	.main-content-bottom .btn-left {
+		height: 35px;
+    width: 35px;	
+	}
+	
+	.main-content-top .next_button::after,
+	.main-content-top .prev_button::after,
+	.main-content-bottom .btn-left::after,
+	.main-content-bottom .btn-right::after{
+		width: 15px;
+    height: 15px;
+	}
+
+	.main-content-center .main-center-title {
+    padding-top: 30px;
+    text-align: center;
+  }
+		
+  .main-content-center .main-center-title-wrapper {
+  	padding-bottom: 50px;
+  	&::after {
+  		content: " ";
+  		width: 50%;
+  		height: 2px;
+  		position: relative;
+  		left: 25%;
+  	}
+  }
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	
+	.menu-expanded {
+		line-height: 45px;
+	}
+
+	.main-footer-descriprion {
+    padding-bottom: 30px;
+  }
+
+	.main-footer-title h2 {
+		position: relative;
+		&::after {
+			content: " ";
+			width: 100%;
+			height: 2px;
+		}
+	}
+	
+	#scrollUp {
+		opacity: 0;
+	}
+
+	/*Disable Animation on Mobile Devices*/
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}	
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	
+}
+
+
+/*********************************************\
+		Mobile First Method
+\*********************************************/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+	
+}
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	
+}
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	
+}

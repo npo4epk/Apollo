@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Releway";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Releway/Raleway-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Releway-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Releway/Raleway-Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Raleway-Thin";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Releway/Raleway-Thin.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "LMRomanSlant10-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/LMRomanSlant10-Regular/LMRomanSlant10-Regular.ttf") format("truetype"); }

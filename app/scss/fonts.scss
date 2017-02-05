@@ -1,0 +1,14 @@
+//*********************************************
+// @IMPORT
+//*********************************************
+@import "_mixins.scss";
+
+//*********************************************
+// FONTS
+//*********************************************
+
+
+@include font-face(Releway, '../fonts/Releway/Raleway-Regular', normal, normal, ttf); 
+@include font-face(Releway-Bold, '../fonts/Releway/Raleway-Bold', normal, normal, ttf); 
+@include font-face(Raleway-Thin, '../fonts/Releway/Raleway-Thin', normal, normal, ttf); 
+@include font-face(LMRomanSlant10-Regular, '../fonts/LMRomanSlant10-Regular/LMRomanSlant10-Regular', normal, normal, ttf);
