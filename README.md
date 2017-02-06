@@ -2,8 +2,8 @@
 # "Apollo" - Landing page для мобильного приложения.
 
 <p>Страница визитка фотографа</p>
-<p>Посмотреть на странице</p>
-<p><a href="http://nikita-karpinskiy.esy.es/Apollo/" target="_blank">Apollo</a></p>
+<p>Посмотреть на странице:</p>
+<p><a href="http://nikita-karpinskiy.esy.es/Apollo/" target="_blank">apollo.com</a></p>
 
 <em>Особенности проекта:</em>
 <ol>
@@ -38,7 +38,7 @@
 	<li><a href="http://fontsquirrel.com" target="_blank">fontsquirrel.com/fonts/raleway</a> - Бесплатные шрифты.</li>
 	<li><a href="http://owlgraphic.com/owlcarousel" target="_blank">owlgraphic.com</a> - Карусель.</li>
     <li><a href="http://fancybox.net/" target="_blank">fancybox.net</a> - Модальные окна для отправки писем от посетителей.</li>
-    <li><a href="https://github.com/es-shims/es5-shim" target="_blank">es5-shim.github.io</a> - DOM-shim для всех браузеров включая IE < 8.</li>
+    <li><a href="https://github.com/es-shims/es5-shim" target="_blank">es5-shim.github.io</a> - DOM-shim для всех браузеров включая IE8-</li>
     <li><a href="https://github.com/aFarkas/html5shiv" target="_blank">html5shiv.github.io</a> -  плагин языка программирования JavaScript, позволяющий обеспечивать базовые стили HTML5 для Internet Explorer 6-8, Safari 4.x, Firefox 3.x. и iPhone 3.x.</li>
     <li><a href="https://modernizr.com/" target="_blank">modernizr.com</a> - Это JavaScript-библиотека, которая узнаёт, что из HTML5 и CSS3 умеет браузер пользователя.</li>
     <li><a href="https://necolas.github.io/normalize.css/" target="_blank">normalize.css</a> - Это небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию.</li>
