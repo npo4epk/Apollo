@@ -13,6 +13,7 @@
 	<li>Обратная связь</li>
 	<li>Разнообразные виды каруселей</li>
 	<li>Анимация</li>
+	<li>Возрат в начало страниц</li>
 	<li>Языки: HTML5, CSS3(SCSS), JavaScript(jQuery).</li>
 </ol>
 
@@ -33,6 +34,10 @@
 	<li><a href="http://jquery.com" target="_blank">jquery.com</a> - Популярный javaScript библиотека.</li>
 	<li><a href="http://sass-scss.ru" target="_blank">sass-lang.com.</a> - Препроцессор SCSS.</li>
 	<li><a href="https://daneden.github.io/animate.css/" target="_blank">animate.css</a> - Анимация.</li>
+	<li><a href="https://www.bkosborne.com/jquery-feature-carousel" target="_blank">feature-carousel</a> - Карусель изображений Feature Carousel.</li>
+	<li><a href="https://www.npmjs.com/package/jquery-waypoints" target="_blank">jquery.waypoints</a> - Плагин для jQuery, добавляющий возможность вешать обработчики на событие попадания какого-либо DOM-элемента в viewport. Ну или, по-простому, при попадании элемента в область видимости.</li>
+	<li><a href="https://plugins.jquery.com/waterwheelcarousel/" target="_blank">waterwheel-carousel</a> - Карусель изображений jQuery Waterwheel Carousel.</li>	
+	<li><a href="https://markgoodyear.com/2013/01/scrollup-jquery-plugin/" target="_blank">scrollup.com</a> - Плагин для работы скролла.</li>
 	<li><a href="http://fortawesome.github.io/Font-Awesome" target="_blank">fontawesome.github.io</a> - Векторные иконки. Использовали для соц. сетей.</li>
 	<li><a href="http://github.com/sIlenTc0nTr0L" target="_blank">gist.github.com</a> - Сервис для хранения полезного кода.</li>
 	<li><a href="http://fontsquirrel.com" target="_blank">fontsquirrel.com/fonts/raleway</a> - Бесплатные шрифты.</li>
